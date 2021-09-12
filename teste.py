@@ -1,8 +1,8 @@
 from unittest import TestCase, main
 from soma import Soma
 from subtracao import Subtracao
-from multiplicacao import multiplicacao
-from divisao import divisao
+from multiplicacao import Multiplicacao
+from divisao import Divisao
 from calculadora import Calculadora
 
 class Teste():
